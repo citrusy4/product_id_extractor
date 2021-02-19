@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
   long_description = fh.read()
 
 setuptools.setup(
-  name="product-id-extractor-ym",
+  name="product-id-extractor",
   version="0.0.1",
   author="citrusy",
   author_email="luojunshan@yimian.com.cn",

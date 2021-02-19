@@ -1,6 +1,6 @@
 import re
 
-from config import Config
+from product_id_extractor.config import Config
 
 rules = Config.RULES
 
